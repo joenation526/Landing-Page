@@ -1,14 +1,32 @@
-header{
+.header{
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-weight: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header .left{
     display: flex;
     align-items: flex-start;
-    justify-content: flex-start;
 
 }
 
-body{
+.body{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
 }
 
-footer{
+.flex1{
+    color: #f9faf8;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
