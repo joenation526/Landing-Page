@@ -1,16 +1,21 @@
 .header{
     background-color: #1F2937;
     color: #f9faf8;
-    font-weight: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
 }
 
-.header .left{
+.left{
     display: flex;
-    align-items: flex-start;
+    margin: auto;
+    padding: auto;
+    justify-content: flex-start;
+}
 
+.right{
+        display: flex;
+    margin: auto;
+    padding: auto;
+    justify-content: flex-end;
 }
 
 .body{
