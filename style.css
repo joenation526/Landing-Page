@@ -37,11 +37,13 @@
 }
 
 .flex3{
-
+    font-style: light italic;
+    font-size: 24px;
+    color: #1F2937;
 }
 
-flex4{
-    
+.flex4{
+
 }
 
 .footer{
