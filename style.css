@@ -28,6 +28,12 @@
 
 }
 
+.quoteBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .flex1{
     color: #f9faf8;
 }
