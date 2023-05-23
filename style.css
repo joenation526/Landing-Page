@@ -2,19 +2,22 @@
     background-color: #1F2937;
     color: #f9faf8;
     display: flex;
+    padding: auto;
 }
 
 .left{
     font-size: 24px;
     display: flex;
     margin-right: auto;
+    padding-left: 10%;
 
 }
 
 .right{
     display: flex;
-    margin-left: 1%;
-    justify-content: space-between;
+    padding-left: 5%;
+    margin-left: 0%;
+ 
 }
 
 .body{
@@ -22,6 +25,8 @@
     align-items: center;
     justify-content: center;
     background-color: #1F2937;
+    padding: 10%;
+    
 }
 
 .webDescription{
@@ -32,6 +37,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 10%;
 }
 
 .flex1{
@@ -39,6 +45,10 @@
 }
 
 .flex2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10%;
 
 }
 
@@ -56,5 +66,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    background-color: #1F2937;
+    color: #f9faf8;
+    margin-top: 1%;
+    padding: 5%;
 }
