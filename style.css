@@ -2,21 +2,21 @@
     background-color: #1F2937;
     color: #f9faf8;
     display: flex;
-    padding: auto;
 }
 
-/* left and right here arefor headers*/
+/* left and right here are for headers*/
 .left{
     font-size: 24px;
     display: flex;
     margin-right: auto;
-    padding-left: 10%;
+    padding-left: 1%;
 
 }
 
 .right{
     display: flex;
-    padding-left: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
     margin-left: 0%;
  
 }
